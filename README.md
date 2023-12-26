@@ -4,7 +4,7 @@ Beehive is a distributed task scheduling framework built upon the small world ne
 
 ## Architecture
 
-![Beehive Architecture](https://github.com/Trump-last/Beehive/blob/46623531056551ed9d905e47c4b5e4ddf4ee9abd/Screenshots/architecture.png)
+![Beehive Architecture](https://github.com/Trump-last/Beehive/blob/cb5d9db41f0fb4bb80918abb0352d2e2ef853481/Screenshots/architecture.png)
 
 Beehive is primarily composed of three parts.
 
